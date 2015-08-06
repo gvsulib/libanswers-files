@@ -1,0 +1,314 @@
+
+
+/* Hide the default search box, metadata  */
+#s-la-page-title-bar,
+.s-la-faq-listing-meta {
+	display: none;
+}
+
+.s-la-box-title h2 {
+	font-weight: bold;
+	font-style: italic;
+	font-size:1.2em;
+}
+
+.s-la-content-faqlist ul {
+  margin-left: 0;
+}
+
+
+.s-la-searchform-button, .s-la-searchform-button:hover, .s-la-searchform-button:focus, .s-la-searchform-button:active {
+	background-color: #428bca !important;
+	background-image: none !important;
+	border-color: #357ebd !important;
+}
+
+
+
+h3.help-boxtitle {
+  margin-left: -1.5em;
+  margin-bottom: -2em;
+  padding-bottom: .5em;
+  border-bottom: 1px solid #ccc;
+}
+
+li.s-la-faq-listing {
+	border-bottom: 0;
+}
+
+#s-la-search-list li.s-la-faq-listing {
+	border-bottom: 1px solid #ddd;
+}
+
+ul.s-la-faq-topics.list-inline {
+  margin-top: -1em;
+}
+
+
+
+.s-la-color-bars-border {
+	border: none;
+}
+
+.s-la-color-bars {
+	background-image: none;
+	background-color: #fff;
+}
+
+.s-la-faq-action-bar ul.navbar-right {
+	display: none;
+}
+
+.s-la-faq-listing-meta .label-topic, .s-la-faq-topics .label-topic {
+	font-size: 1.2em;
+	line-height: 2.2em;
+}
+
+.s-la-faq-topics.list-inline > li {
+	display: block;
+}
+
+#s-la-search-results.col-md-9 {
+	width: 100%;
+}
+
+#s-la-public-footer.s-la-color-bars {
+	 margin-top: 1em;
+  border-top: 1px solid #ddd;
+}
+
+#s-la-search-sidebar {
+	display: none;
+}
+
+.s-la-box-title h2 {
+	font-style:normal;
+	border-bottom: 1px solid #ddd;
+}
+
+
+h3.help-boxtitle {
+	margin-left: 0;
+}
+
+.help-category h3 a {
+	color: #428bca !important;
+}
+
+
+#cms-header-inner {
+  margin: 0;
+  padding: 0;
+}
+
+#lib-library_header {
+  background-color: #093a6d;
+  color: #fff;
+  padding: 1.5em 0 .25em;
+}
+
+#lib-library_header #gvsu-library_title {
+  color: #fff;
+  font-family: AlternateGothicFSNo3,Arial,sans-serif;
+  font-size: 2.5em;
+  font-weight: 100;
+  line-height: 100%;
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: .5em;
+}
+
+#lib-library_header a {
+  color: #fff;
+  text-decoration: none;
+}
+
+#cms-navigation ul {
+  float: left;
+  margin-bottom: 0;
+}
+
+ul#login-nav {
+  float: right !important;
+}
+
+.chat-button {
+  float: right;
+  margin-right: .5em;
+  margin-top: .5em;
+}
+
+.chat-button button {
+  font-size: 1.1em;
+  border: 1px solid #bbb !important;
+  padding-left: 2em !important;
+}
+
+.libchat_online {
+	background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA8klEQVQ4y2NgoAWIPhHNl3I6xSH1TGoRkK5KPpXskXgoUZQYvYxATRmpp1M/pZ1J+4+Gf6WeSm323ObJjlNz2um0TVg0omCgBRdjd8ZyY+gGai4kpBnJkFkompOPJQsBJX4QawAIp5xIMYYbkHoy1Z0UzWADTqcUIDu/GqtTT6fi88YSZANySHUBUM8URBicTjYj2YAzafFwA0JXhbIBnXuP6FgAppOkI0lSqDFxOtkaKPGHqAA8lZKINSUBU1oqUMFXPDb/AQZeG960nHQ6SQmoaB1QwzukEP8CpPcBLTAlKVMlHE9QAGrUYGhgYGKgFQAAoot2F4Rm8VoAAAAASUVORK5CYII=') !important;
+	background-position: 10% 50%;
+	background-repeat: no-repeat;
+}
+
+.libchat_offline {
+	background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA2UlEQVQ4y2NgoAU4wcDAd5qBweEMA0MRkK46xcDgcYiBQZQYvYxATRlATZ+A9H80/AtoUPM2BgZ2nJqBGjdh0YiOL+5kYODG0A3UXEiEZhiehaL5GAODEFDwBwkG/AeGkzHcgJMMDO6kaAZhoIsLkJ1fjUMRPkOWIBuQQ4YLpiAbYEaqAUAcDzdgFQMDG9CQeyTY/ukIA4MUejRaA/EfYgwAJqhErCkJKJEKVPAVj80gC9rwpmWgIiWgonVA/A5J8xcg3ge0wJSkTHWcgUEBqFGjgYGBiYFWAADO+fxKxjBGxwAAAABJRU5ErkJggg==') !important;
+	background-position: 10% 50%;
+	background-repeat: no-repeat;
+}
+
+#gvsu-cf_header-search, #s-la-footer-brand, #cms-header-image, #cms-header h1, .tel .type {
+  display: none;
+}
+
+#cms-header .cms-navigation {
+  margin-top: 0;
+}
+
+div#s-la-box-20403 {
+  display: none;
+}
+
+#cms-footer ul li#lib-fed-deposit {
+	float: right;
+	text-align: right;
+}
+
+#lib-fed-deposit span {
+	display: block;
+	line-height: 1.3em;
+}
+
+#s-la-public-header a {
+	color: #333;
+}
+
+#s-la-public-header a:hover {
+	text-decoration:none;
+}
+
+h1#s-la-public-header-title {
+  margin-left: .45em;
+}
+
+#cms-header .cms-navigation ul li ul {
+	right: auto !important;
+	border: 1px solid #bbb;
+	margin-top: .75em;
+}
+
+.s-la-public-header-text {
+  margin-bottom: 0;
+}
+
+h1 {
+	margin-bottom: 0;
+}
+
+.s-la-faq-answer li {
+	margin-left: 1.5em;
+}
+
+/* Picky styles for how the phone number displays in the footer */ 
+.tel {
+   color: #535353;
+}
+.tel .value {
+	color: #dfdfdf;
+	display: inline-block;
+  margin-left: -.5em;
+}
+
+#cms-header .cms-navigation ul li ul li {
+  background-color: #dedede;
+  border-bottom: 1px solid #bbb;
+}
+
+#cms-header .cms-navigation ul li ul li:hover,
+#cms-navigation ul li:hover {
+	background-color: #d2e2ef;
+}
+
+#cms-navigation ul {
+	width: 100%;
+}
+
+li.cms-navigation-sub:hover {
+	  background-color: #d2e2ef;
+  color: #0060A7;
+}
+
+li.cms-navigation-sub:hover ul {
+	display: block !important;
+	margin-top: .25em;
+}
+.container {
+    max-width: 979px;
+}
+
+#library-chat {
+	float: right !important;
+}
+
+#library-chat a {
+	font-family: Arial, sans-serif !important;
+	padding: .65em .85em !important;
+}
+
+#cms-navigation-toggle {
+	-webkit-box-sizing: content-box;
+	-moz-box-sizing: content-box;
+    box-sizing: content-box;
+}
+
+
+@media screen and (min-width: 600px) {
+	div#s-la-box-20403 {
+		display: block;
+  width: 50%;
+  float: right;
+  margin-top: -9em;
+}
+}
+
+
+@media screen and (min-width: 700px) {
+	#s-la-box-20273 form {
+		width: 66%;
+		margin:auto;
+	}
+}
+/* Grid styles : Based on Nicole Sullivan's OOCSS grids */
+
+.line{overflow:hidden;*overflow:visible;*zoom:1;clear:both;}
+.span1,.span3,.span2of3,#s-la-content-faqlist-19003 li.s-la-faq-listing { width:99%;}
+.unit{padding:.5em 0;}
+.left,
+.right{float:none;}
+
+
+@media screen and (min-width: 450px) {
+.left,#s-la-content-faqlist-19003 li.s-la-faq-listing{float:left;}
+.right{float:right;}
+.s-la-public-home.s-la-public-header-text { text-align:left;}
+}
+
+@media screen and (min-width:550px) {
+.span3,#s-la-content-faqlist-19003 li.s-la-faq-listing{width:32%;padding:.5em 2.5% .5em 0;}
+.span2of3{width:65%;padding:.5em 1% .5em 0;}
+.help-category {
+	padding: 2em 1%;
+	border: 1px solid #ccc;
+	text-align: center;
+	height: 18em;
+}
+
+@media screen and (min-width: 995px) {
+div#s-la-box-20403 {
+
+  margin-top: -8em;
+}
+}
+
+}
+
+
