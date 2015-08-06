@@ -156,13 +156,20 @@ ul#login-nav {
 	background-repeat: no-repeat;
 }
 
-#gvsu-cf_header-search, #s-la-footer-brand, #cms-header-image, #cms-header h1, .tel .type {
+#gvsu-cf_header-search, #s-la-footer-brand, #cms-header-image, .tel .type {
   display: none;
 }
 
 #cms-header .cms-navigation {
   margin-top: 0;
 }
+
+#cms-header-inner h1, #cms-header-inner h1 a {
+    text-align: center;
+    color: #FFF;
+    text-transform: uppercase;
+    padding: 0;
+ }
 
 div#s-la-box-20403 {
   display: none;
