@@ -295,9 +295,10 @@ li.cms-navigation-sub:hover ul {
 	text-align: center;
 	height: 25em;
 }
-#libraryuse { background-image: url(//labs.library.gvsu.edu/labs/libanswers/img/libraryuse.jpg); background-repeat: no-repeat; background-position: 50% 5%;}
-#find { background-image: url(//labs.library.gvsu.edu/labs/libanswers/img/find.jpg); background-repeat: no-repeat; background-position: 50% 5%;}
-#needhelp { background-image: url(//labs.library.gvsu.edu/labs/libanswers/img/needhelp.jpg); background-repeat: no-repeat; background-position: 50% 5%;}
+#libraryuse { background-image: url(//labs.library.gvsu.edu/labs/libanswers/img/libraryuse.jpg);}
+#find { background-image: url(//labs.library.gvsu.edu/labs/libanswers/img/find.jpg); }
+#needhelp { background-image: url(//labs.library.gvsu.edu/labs/libanswers/img/needhelp.jpg); }
+#libraryuse, #find, #needhelp { background-repeat: no-repeat; background-position: 50% 10%;}
 
 
 }
@@ -308,6 +309,8 @@ div#s-la-box-20403 {
   margin-top: -8em;
 }
 .help-category { height: 18em; }
+#libraryuse, #find, #needhelp {  background-position: 50% 15%;}
+
 }
 
 
