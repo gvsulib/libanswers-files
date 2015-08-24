@@ -134,17 +134,13 @@ ul#login-nav {
   padding-left: 2em !important;
 }
 
-.libchat_online {
+#library-chat a {
+	padding: .65em .85em .65em 3em !important;
 	background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA8klEQVQ4y2NgoAWIPhHNl3I6xSH1TGoRkK5KPpXskXgoUZQYvYxATRmpp1M/pZ1J+4+Gf6WeSm323ObJjlNz2um0TVg0omCgBRdjd8ZyY+gGai4kpBnJkFkompOPJQsBJX4QawAIp5xIMYYbkHoy1Z0UzWADTqcUIDu/GqtTT6fi88YSZANySHUBUM8URBicTjYj2YAzafFwA0JXhbIBnXuP6FgAppOkI0lSqDFxOtkaKPGHqAA8lZKINSUBU1oqUMFXPDb/AQZeG960nHQ6SQmoaB1QwzukEP8CpPcBLTAlKVMlHE9QAGrUYGhgYGKgFQAAoot2F4Rm8VoAAAAASUVORK5CYII=') !important;
 	background-position: 10% 50%;
 	background-repeat: no-repeat;
 }
 
-.libchat_offline {
-	background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA2UlEQVQ4y2NgoAU4wcDAd5qBweEMA0MRkK46xcDgcYiBQZQYvYxATRlATZ+A9H80/AtoUPM2BgZ2nJqBGjdh0YiOL+5kYODG0A3UXEiEZhiehaL5GAODEFDwBwkG/AeGkzHcgJMMDO6kaAZhoIsLkJ1fjUMRPkOWIBuQQ4YLpiAbYEaqAUAcDzdgFQMDG9CQeyTY/ukIA4MUejRaA/EfYgwAJqhErCkJKJEKVPAVj80gC9rwpmWgIiWgonVA/A5J8xcg3ge0wJSkTHWcgUEBqFGjgYGBiYFWAADO+fxKxjBGxwAAAABJRU5ErkJggg==') !important;
-	background-position: 10% 50%;
-	background-repeat: no-repeat;
-}
 
 #gvsu-cf_header-search, #s-la-footer-brand, #cms-header-image, .tel .type {
   display: none;
@@ -250,7 +246,6 @@ li.cms-navigation-sub:hover ul {
 
 #library-chat a {
 	font-family: Arial, sans-serif !important;
-	padding: .65em .85em !important;
 }
 
 #cms-navigation-toggle {
@@ -300,7 +295,7 @@ li.cms-navigation-sub:hover ul {
 	text-align: center;
 	height: 25em;
 }
-#libraryuse { background-image: url(//labs.library.gvsu.edu/labs/libanswers/img/libraryuse.png); background-repeat: no-repeat; background-position: top center;}
+#libraryuse { background-image: url(//labs.library.gvsu.edu/labs/libanswers/img/libraryuse.jpg); background-repeat: no-repeat; background-position: top center;}
 }
 
 @media screen and (min-width: 995px) {
