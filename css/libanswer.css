@@ -239,6 +239,7 @@ li.cms-navigation-sub:hover ul {
 }
 .container {
     max-width: none !important;
+    width: 100% !important;
 }
 
 #library-chat {
