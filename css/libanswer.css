@@ -15,8 +15,9 @@
 .s-la-content-faqlist ul {
   margin-left: 0;
 }
-
-
+#cms-content a { color: #1F65A0; text-decoration: none;}
+a.btn.btn-primary, .btn.btn-primary a { color: #fff !important;}
+a.btn.btn-default, .btn.btn-default a { color: #333 !important; }
 .s-la-searchform-button, .s-la-searchform-button:hover, .s-la-searchform-button:focus, .s-la-searchform-button:active {
 	background-color: #428bca !important;
 	background-image: none !important;
@@ -237,7 +238,7 @@ li.cms-navigation-sub:hover ul {
 	margin-top: .25em;
 }
 .container {
-    max-width: 979px;
+    max-width: none !important;
 }
 
 #library-chat {
