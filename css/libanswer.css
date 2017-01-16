@@ -203,6 +203,15 @@ h1 {
 .s-la-faq-answer li {
 	margin-left: 1.5em;
 }
+/* Hide stupid filters */
+
+#s-srch-results-container .col-md-3 {
+    display: none;
+}
+
+#s-srch-results-container .col-md-9 {
+    width: 100% !important;
+}
 
 /* Picky styles for how the phone number displays in the footer */ 
 .tel {
