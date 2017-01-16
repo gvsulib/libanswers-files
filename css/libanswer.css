@@ -223,6 +223,12 @@ h1 {
   margin-left: -.5em;
 }
 
+.input-group-btn:last-child > .btn, .input-group-btn:last-child > .btn-group {
+ 
+    position: relative;
+    bottom: 3px;
+    }
+
 #cms-header .cms-navigation ul li ul li {
   background-color: #dedede;
   border-bottom: 1px solid #bbb;
