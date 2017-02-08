@@ -312,9 +312,9 @@ li.cms-navigation-sub:hover ul {
 	text-align: center;
 	height: 25em;
 }
-#libraryuse { background-image: url(//labs.library.gvsu.edu/labs/libanswers/img/libraryuse.jpg);}
-#find { background-image: url(//labs.library.gvsu.edu/labs/libanswers/img/find.jpg); }
-#needhelp { background-image: url(//labs.library.gvsu.edu/labs/libanswers/img/needhelp.jpg); }
+#libraryuse { background-image: url(https://prod.library.gvsu.edu/labs/libanswers/img/libraryuse.jpg);}
+#find { background-image: url(https://prod.library.gvsu.edu/labs/libanswers/img/find.jpg); }
+#needhelp { background-image: url(https://prod.library.gvsu.edu/labs/libanswers/img/needhelp.jpg); }
 #libraryuse, #find, #needhelp { background-repeat: no-repeat; background-position: 50% 10%;}
 
 
