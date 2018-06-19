@@ -273,6 +273,10 @@ li.cms-navigation-sub:hover ul {
 	margin-right: 0 !important;
 }
 
+.navigation {
+	z-index: 0;
+}
+
 
 @media screen and (min-width: 600px) {
 	div#s-la-box-20403 {
@@ -283,13 +287,6 @@ li.cms-navigation-sub:hover ul {
 }
 }
 
-
-@media screen and (min-width: 700px) {
-	#s-la-box-20273 form {
-		width: 66%;
-		margin:auto;
-	}
-}
 /* Grid styles : Based on Nicole Sullivan's OOCSS grids */
 
 .line{overflow:hidden;*overflow:visible;*zoom:1;clear:both;}
