@@ -277,6 +277,7 @@ li.cms-navigation-sub:hover ul {
 .navigation {
 	z-index: 0;
 }
+.s-la-public-header-text { float: none; }
 
 .pagination li.active a { color: #fff !important; }
 .s-la-faq-owner { display: none; }
