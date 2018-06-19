@@ -283,7 +283,7 @@ li.cms-navigation-sub:hover ul {
 .fa, .far, .fas { font-family: FontAwesome !important; }
 
 @media screen and (min-width: 600px) {
-#s-la-box-20403 {
+div#s-la-box-20403 {
 		display: block;
   width: 50%;
   float: right;
