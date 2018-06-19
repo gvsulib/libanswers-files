@@ -264,6 +264,15 @@ li.cms-navigation-sub:hover ul {
     box-sizing: content-box;
 }
 
+.site .library-hours a {
+	text-decoration: underline;
+}
+
+.library-hours li.row {
+	margin-left: 0 !important;
+	margin-right: 0 !important;
+}
+
 
 @media screen and (min-width: 600px) {
 	div#s-la-box-20403 {
