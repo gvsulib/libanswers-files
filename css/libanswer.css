@@ -280,10 +280,10 @@ li.cms-navigation-sub:hover ul {
 
 .pagination li.active a { color: #fff !important; }
 .s-la-faq-owner { display: none; }
-.fa, .far, .fas { font-family: FontAwesome !important;
+.fa, .far, .fas { font-family: FontAwesome !important; }
 
 @media screen and (min-width: 600px) {
-	div#s-la-box-20403 {
+#s-la-box-20403 {
 		display: block;
   width: 50%;
   float: right;
