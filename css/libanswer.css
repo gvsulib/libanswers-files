@@ -277,6 +277,8 @@ li.cms-navigation-sub:hover ul {
 	z-index: 0;
 }
 
+.pagination li.active a { color: #fff !important; }
+
 
 @media screen and (min-width: 600px) {
 	div#s-la-box-20403 {
