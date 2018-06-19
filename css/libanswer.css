@@ -285,7 +285,6 @@ li.cms-navigation-sub:hover ul {
 		display: block;
   width: 50%;
   float: right;
-  margin-top: -9em;
 }
 }
 
@@ -322,10 +321,7 @@ li.cms-navigation-sub:hover ul {
 }
 
 @media screen and (min-width: 995px) {
-div#s-la-box-20403 {
 
-  margin-top: -8em;
-}
 .help-category { height: 20em; }
 #libraryuse, #find, #needhelp {  background-position: 50% 15%;}
 
