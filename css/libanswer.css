@@ -279,7 +279,8 @@ li.cms-navigation-sub:hover ul {
 }
 
 .pagination li.active a { color: #fff !important; }
-
+.s-la-faq-owner { display: none; }
+.fa, .far, .fas { font-family: FontAwesome !important;
 
 @media screen and (min-width: 600px) {
 	div#s-la-box-20403 {
@@ -289,7 +290,7 @@ li.cms-navigation-sub:hover ul {
   margin-top: -9em;
 }
 h1#s-la-public-header-title {
-  width: 45%;
+  width: 80%;
 }
 }
 
