@@ -297,9 +297,8 @@ h1#s-la-public-header-title {
 
 /* Grid styles : Based on Nicole Sullivan's OOCSS grids */
 
-.line{overflow:hidden;*overflow:visible;*zoom:1;clear:both;}
-.span1,.span3,.span2of3,#s-la-content-faqlist-19003 li.s-la-faq-listing { width:99%;}
-.unit{padding:.5em 0;}
+#s-la-content-faqlist-19003 li.s-la-faq-listing { width:99%;}
+
 .left,
 .right{float:none;}
 
@@ -324,8 +323,7 @@ h1#s-la-public-header-title { font-size: 289.6551724138%; }
 }
 
 @media screen and (min-width:550px) {
-.span3,#s-la-content-faqlist-19003 li.s-la-faq-listing{width:32%;padding:.5em 2.5% .5em 0;}
-.span2of3{width:65%;padding:.5em 1% .5em 0;}
+#s-la-content-faqlist-19003 li.s-la-faq-listing{width:32%;padding:.5em 2.5% .5em 0;}
 .help-category {
 	padding: 6em 1% 2em;
 	border: 1px solid #ccc;
