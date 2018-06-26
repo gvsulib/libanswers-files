@@ -303,6 +303,19 @@ h1#s-la-public-header-title {
 .left,
 .right{float:none;}
 
+.s-srch-result-title { font-size: 16px !important; }
+.s-srch-result .label {
+    font-size: 100% !important;
+}
+.input-group-btn:last-child > .btn, .input-group-btn:last-child > .btn-group { bottom: 0 !important; }
+.input-group-btn { font-size: 1em; }
+.form-control { font-size: 14.5px; height: 35px; }
+h1#s-la-public-header-title { font-size: 289.6551724138%; }
+#s-la-bc { display: none; } /* avoid dual role=navigation */
+.s-la-box-borderless .s-la-box-title { display: block; } /* Show headings on homepage */
+.s-la-box-title h2 { border: none; }
+.site .library-nav a { text-decoration: underline; }
+
 
 @media screen and (min-width: 450px) {
 .left,#s-la-content-faqlist-19003 li.s-la-faq-listing{float:left;}
