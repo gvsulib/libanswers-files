@@ -1,6 +1,6 @@
 
 // Make a better placeholder message
-document.getElementById('s-la-content-search-query-4120').placeholder = 'How can we help you?';
+//document.getElementById('s-la-content-search-query-4120').placeholder = 'How can we help you?';
 
 // Drop the Q business from the front of the question title
 
