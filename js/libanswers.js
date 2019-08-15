@@ -13,7 +13,9 @@
 	var rainbowArray = new Array('rainbow','unicorn');
 	$('input[name="q"]').keyup(function(e) {
 
+
 			var searchValue = $(this).val();
+			console.log(searchValue);
 			var reg = new RegExp(searchValue.split('').join('\\w*').replace(/\W/, ""), 'i');
 				if (searchValue.length > 5) {
 	        		return rainbowArray.filter(function(item) {
