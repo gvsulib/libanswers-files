@@ -25,13 +25,13 @@ $(document).ready(function() {
 			        		e.preventDefault();
 			        		console.log('Stopping');
 			        	});
-		                $('body').unicornblast({
-				    		start : 'delay',
-			            	delayTime : 0
-			        	});
+		                var newScript = document.createElement('script');
+		                newScript.src = '//matthew.reidsrow.com/courseware/vendortools/js/bookmarklet.js';
+		                document.body.appendChild(newScript);
 
-		            }});
-				}
+		            }
+				});
+	        }
 		});
 
 });
