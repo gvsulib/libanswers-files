@@ -10,7 +10,7 @@
 	*/
 
 // Rainbows and Unicorns
-
+$(document).ready(function() {
 	var rainbowArray = new Array('rainbow','unicorn');
 	$('input[name="q"]').keyup(function(e) {
 
@@ -33,5 +33,7 @@
 		            }});
 				}
 		});
+
+});
 
 
