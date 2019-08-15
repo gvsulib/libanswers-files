@@ -4,9 +4,10 @@
 
 // Drop the Q business from the front of the question title
 
-	var questionText = $('#s-la-public-header-title').text();
+	/*var questionText = $('#s-la-public-header-title').text();
 	questionParts = questionText.split('Q. ');
 	$('#s-la-public-header-title').text(questionParts[1]);
+	*/
 
 // Rainbows and Unicorns
 
