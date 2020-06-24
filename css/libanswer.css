@@ -65,6 +65,10 @@ ul.s-la-faq-topics.list-inline {
 	line-height: 2.2em;
 }
 
+span.label.label-topic a {
+    color: #fff !important;
+}
+
 .s-la-faq-topics.list-inline > li {
 	display: block;
 }
@@ -280,7 +284,8 @@ li.cms-navigation-sub:hover ul {
 .fa, .far, .fas { font-family: FontAwesome !important; }
 
 @media screen and (min-width: 600px) {
-div#s-la-box-20403 {
+div#s-la-box-20403,
+div#s-la-box-55099 {
 		display: block;
   width: 50%;
   float: right;
@@ -335,7 +340,8 @@ h1#s-la-public-header-title { font-size: 289.6551724138%; }
 }
 
 @media screen and (min-width: 995px) {
-div#s-la-box-20403 {
+div#s-la-box-20403,
+div#s-la-box-55099 {
 
   margin-top: -8em;
 }
