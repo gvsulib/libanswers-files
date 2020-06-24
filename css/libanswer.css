@@ -65,10 +65,6 @@ ul.s-la-faq-topics.list-inline {
 	line-height: 2.2em;
 }
 
-span.label.label-topic a {
-    color: #fff !important;
-}
-
 .s-la-faq-topics.list-inline > li {
 	display: block;
 }
