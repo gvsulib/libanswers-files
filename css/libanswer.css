@@ -63,6 +63,7 @@ ul.s-la-faq-topics.list-inline {
 .s-la-faq-listing-meta .label-topic, .s-la-faq-topics .label-topic {
 	font-size: 1.2em;
 	line-height: 2.2em;
+	background-color: #DDE0E3 !important;
 }
 
 .s-la-faq-topics.list-inline > li {
@@ -278,11 +279,29 @@ li.cms-navigation-sub:hover ul {
 .pagination li.active a { color: #fff !important; }
 .s-la-faq-owner { display: none; }
 .fa, .far, .fas { font-family: FontAwesome !important; }
+.s-srch-params h3 { color: #121212; }
+.s-la-faq-media-wrapper {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+}
 
+.s-la-faq-media-wrapper::after {
+  display: block;
+  content: "";
+  padding-top: 56.25%;
+}
+
+.s-la-faq-media-wrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
 .s-lc-h-today {
 	background-color: #0065a4 !important;
 	color: #fff;
-
 }
 
 @media screen and (min-width: 600px) {
